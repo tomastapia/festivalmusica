@@ -469,10 +469,18 @@ body > section {
   }
 }
 
+.contenido-festival {
+  margin-top: 2rem;
+}
 .contenido-festival h2 {
+  margin-bottom: 0;
   color: #212121;
 }
 .contenido-festival .fecha {
   color: #F53756;
+  font-size: 2rem;
   font-weight: 700;
+}
+.contenido-festival p {
+  font-size: 1.6rem;
 }
